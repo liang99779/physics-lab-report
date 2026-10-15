@@ -1,0 +1,2 @@
+# Required only for PDF inspection; DOCX inspection uses the standard library.
+pypdf

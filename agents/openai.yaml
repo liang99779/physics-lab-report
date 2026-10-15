@@ -1,0 +1,6 @@
+interface:
+  display_name: "物理实验报告生成"
+  short_description: "依据PPT、原始数据、模板与预习报告生成规范物理实验报告"
+  default_prompt: "使用 $physics-lab-report 根据我提供的PPT、原始数据、实验报告模板和预习报告生成完整实验报告。"
+policy:
+  allow_implicit_invocation: true
